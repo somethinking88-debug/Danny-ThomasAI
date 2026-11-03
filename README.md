@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./dragon_banner.png" width="100%" alt="Danny Thomas - AI Engineer"/>
+  <img src="./dragon-banner.png" width="100%" alt="Danny Thomas - AI Engineer"/>
 </div>
 <div align="center">
 
