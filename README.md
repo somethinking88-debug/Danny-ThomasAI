@@ -1,5 +1,15 @@
 <div align="center">
 
+<img src="dragon-banner.png" width="100%" />
+
+# 🐉 Danny Thomas
+### AI Engineer | Machine Learning | Generative AI
+
+Building the future, one intelligent solution at a time.
+
+</div>
+<div align="center">
+
 # 👋 Hi, I'm Danny Thomas
 
 ### 🚀 AI Engineer | Machine Learning | Generative AI | LLMs
