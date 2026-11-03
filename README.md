@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="dragon-banner.png" width="100%" />
+  <img src="./dragon-banner.png" width="100%" alt="Danny Thomas - AI Engineer"/>
+</div>
 
 # 🐉 Danny Thomas
 ### AI Engineer | Machine Learning | Generative AI
